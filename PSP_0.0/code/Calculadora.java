@@ -2,16 +2,16 @@
 * Proyecto:            Programa0
 * Clase:               ProgramaUno
 * Paquete:             standard
-* Desarrollador:       Cristian Juli醤 Andrade Murillo
-* Descripci髇:         Esta clase tiene como funci髇 calcular el promedio y desviaci髇 est醤dar de n datos   
-* 趌tima modificaci髇: 14/05/2019
+* Desarrollador:       Cristian Juli谩n Andrade Murillo
+* Descripci贸n:         Esta clase tiene como funci贸n calcular el promedio y desviaci贸n est谩ndar de n datos   
+* 脷ltima modificaci贸n: 14/05/2019
 */
 
 package standard;
 
 public class Calculadora {
 	public static void main(String[] args) {
-		ProgramaUno program = new ProgramaUno(0,0,0);
+		ProgramaUno program = new ProgramaUno();
 		program.calcular();
 	}
 }
