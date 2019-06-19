@@ -1,2 +1,0 @@
-diseño: la otra clase,metdodo constructor,privados los metodos
- 
